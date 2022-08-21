@@ -1,0 +1,25 @@
+import turtle
+
+
+while True:
+		screen = turtle.getscreen()
+		squirtle = turtle.Turtle()
+		squirtle.forward(50)
+		squirtle.right(150)
+		squirtle.forward(55)
+		squirtle.left(90)
+		squirtle.forward(60)
+		squirtle.right(150)
+		squirtle.forward(60)
+		squirtle.left(70)
+		squirtle.forward(60)
+		squirtle.right(150)
+		squirtle.forward(60)
+		squirtle.left(70)
+		squirtle.forward(60)
+		squirtle.right(145)
+		squirtle.forward(60)
+		squirtle.left(83)
+		squirtle.forward(60)
+		squirtle.right(150)
+		squirtle.forward(65)
